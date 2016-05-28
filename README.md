@@ -1,1 +1,1 @@
-Simple PHP Application built using OOP, Bootstrap and SQL.
+Simple PHP Application built using PHP, Bootstrap and SQL.
